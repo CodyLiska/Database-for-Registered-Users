@@ -1,0 +1,109 @@
+	body {
+		background-color: #454444;
+	}
+
+	body,
+	h2,
+	p,
+	a:link, 
+	a:visited,
+	#deleteFormDiv {
+		color: #dbdbdb;
+		font-weight: bold;
+	}
+
+	#indexEmail {
+		border: 2px solid none;
+		border-radius: 10px;
+		margin-left: 34px;
+	}
+
+	#indexPass {
+		border: 2px solid none;
+		border-radius: 10px;
+		margin-left: 10px;
+	}
+
+	.button {
+		background-color: green;
+		border-radius: 10px;
+		border: hidden;
+		position: relative;
+		height: 20px;
+		width: 60px;
+		text-align: center;
+	}
+
+	#indexFormDiv,
+	#userFormDiv,
+	#deleteFormDiv,
+	#editFormDiv,
+	#passFormDiv {
+		border: 2px solid black;
+		border-radius: 20px;
+		width: 30%;
+		padding-left: 30px;
+	}
+
+	#uEmail,
+	#editUserEmail {
+		border: 2px solid none;
+		border-radius: 10px;
+		margin-left: 43px;
+	}
+
+	#uFName,
+	#uLName,
+	#editUserFName,
+	#editUserLName {
+		border: 2px solid none;
+		border-radius: 10px;
+		margin-left: 8px;
+	}
+
+	#delFName {
+		border: 2px solid none;
+		border-radius: 10px;
+		margin-left: 10px;
+	}
+
+	#uPassword {
+		border: 2px solid none;
+		border-radius: 10px;
+		margin-left: 20px;
+	}
+
+	#uComments {
+		border: 2px solid none;
+		border-radius: 3px;
+	}
+
+	#delUserId {
+		border: 2px solid none;
+		border-radius: 10px;
+		margin-left: 33px;
+	}
+
+	#delLName {
+		border: 2px solid none;
+		border-radius: 10px;
+		margin-left: 12px;
+	}
+
+	#passEmail {
+		border: 2px solid none;
+		border-radius: 10px;
+		margin-left: 10px;
+	}
+
+	#curPass,
+	#conPass {
+		border: 2px solid none;
+		border-radius: 10px;
+	}
+
+	#newPass {
+		border: 2px solid none;
+		border-radius: 10px;
+		margin-left: 28px;
+	}
